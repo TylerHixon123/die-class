@@ -1,3 +1,4 @@
-# The second Git Lab	
-## Second team member: <Gyver Blessing>
+# Git Lab #2 
+## First team member: <Tyler Hixon>
+
 
